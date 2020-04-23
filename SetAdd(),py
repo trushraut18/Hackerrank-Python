@@ -1,0 +1,6 @@
+a=set()
+n=int(input())
+for i in range(n):
+  element=input()
+  a.add(element)
+print(len(a))  
