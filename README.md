@@ -1,5 +1,6 @@
 # HackerRank-Python
-Welcome to the repository,
+Welcome to the repository !!!!!
+
     This repository contains My Python Codes of HackerRank Challenges....
     I have got a gold Badge in python challenges😃.
     ===============================================================================
